@@ -54,7 +54,7 @@ function Resume() {
                         <h4 className="change-color ff-jose ls-2">DOWNLOAD RESUME</h4>
                         <div>
                             // <button className='MdOutlineFileDownload-btn'><a href="https://drive.google.com/file/d/1urAq-XKY669LS5SNC5XiVxrd_oGPLEkk/view?usp=sharing" target="/blank" className="text-white text-decoration-none ">
-                            <button className='MdOutlineFileDownload-btn'><a href=""target="/blank" className="text-white text-decoration-none ">
+                            <button className='MdOutlineFileDownload-btn'><a className="text-white text-decoration-none ">
                                 <MdOutlineFileDownload className="zoom-on-hover MdOutlineFileDownload"/>
                             </a> </button>
                         </div>
