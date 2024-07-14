@@ -1,7 +1,7 @@
 Live Link ->  https://shubhamv888.netlify.app/
 
 
-### Portfolio Website Pointers
+### Portfolio Website 
 
 - **Design**: Clean and minimalistic design focusing on content and usability.
 - **Navigation**: Intuitive navigation with sections like About, Projects, Skills, and Contact.
